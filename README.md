@@ -1,10 +1,9 @@
-# Red-Team-Journey 🚩
+# Red Team Journey 🚩
 
-Welcome to my journal where I'll be tracking my progress on my journey to become a red-team professional.
+Welcome to my journal where I document my hands-on journey toward becoming a Red Team cybersecurity professional.
 
-## 🎯 Objectives:
-1. Build real-world experience through home-labs and projects.
-2. Document & share my progress to assist others on the same pathway.
-3. Showcase my skills and commitment to potential employers.
+## 🎯 Objectives
 
-
+- Build real-world experience through home labs and practical projects  
+- Document and share my progress to support others on a similar path  
+- Showcase skills, consistency, and commitment to future employers  
