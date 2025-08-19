@@ -1,3 +1,4 @@
+# Violent Python - A Cookbook for Hackers... by TJ. O'Connor
 import socket
 socket.setdefaulttimeout(2)
 s = socket.socket()
